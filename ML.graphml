@@ -86,7 +86,6 @@
       </data>
     </node>
     <node id="n4">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="59.36328125" x="876.818359375" y="677.0"/>
@@ -190,7 +189,6 @@
       </data>
     </node>
     <node id="n10">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="60.6875" x="726.15625" y="737.0"/>
@@ -208,7 +206,6 @@
       </data>
     <data key="d4">https://en.wikipedia.org/wiki/Example</data></node>
     <node id="n11">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="55.349609375" x="938.8251953125" y="587.0"/>
@@ -753,7 +750,6 @@
       </data>
     </node>
     <node id="n42">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="106.05078125" x="696.974609375" y="555.0"/>
@@ -947,7 +943,6 @@
       </data>
     </node>
     <node id="n53">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="46.68359375" x="-434.5380859375" y="1030.0102561727863"/>
@@ -1176,7 +1171,6 @@
       </data>
     </node>
     <node id="n66">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="90.705078125" x="-2184.6796875" y="-183.15867530597552"/>
@@ -1493,7 +1487,6 @@
       </data>
     </node>
     <node id="n84">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="74.69140625" x="-705.00390625" y="1233.9696514211664"/>
@@ -2059,7 +2052,6 @@
       </data>
     </node>
     <node id="n116">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="51.34765625" x="-3485.2548828125" y="1142.4677838110063"/>
@@ -2095,7 +2087,6 @@
       </data>
     </node>
     <node id="n118">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="42.669921875" x="-2905.5869140625" y="1605.0"/>
@@ -2203,7 +2194,6 @@
       </data>
     </node>
     <node id="n124">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="57.353515625" x="-2856.874768197649" y="638.931236172947"/>
@@ -2470,7 +2460,6 @@
       </data>
     </node>
     <node id="n139">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="44.017578125" x="-3294.2431640625" y="1190.4053847331966"/>
@@ -2524,7 +2513,6 @@
       </data>
     </node>
     <node id="n142">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="40.689453125" x="-3474.5966796875" y="1082.4677838110063"/>
@@ -2542,7 +2530,6 @@
       </data>
     <data key="d4">https://en.wikipedia.org/wiki/Input</data></node>
     <node id="n143">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="50.0234375" x="-3507.24609375" y="1310.4053847331966"/>
@@ -2596,7 +2583,6 @@
       </data>
     </node>
     <node id="n146">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="45.34765625" x="-3116.92578125" y="1675.8435771346292"/>
@@ -2614,7 +2600,6 @@
       </data>
     <data key="d4">https://en.wikipedia.org/wiki/Stride</data></node>
     <node id="n147">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="58.0390625" x="-3063.271484375" y="1675.8435771346292"/>
@@ -2864,7 +2849,6 @@
       </data>
     </node>
     <node id="n161">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="40.015625" x="-2634.259765625" y="1585.8435771346292"/>
@@ -3767,7 +3751,6 @@
       </data>
     </node>
     <node id="n212">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="65.345703125" x="687.3271484375" y="-1035.0"/>
@@ -6029,7 +6012,6 @@
       </data>
     </node>
     <node id="n339">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="43.361328125" x="-741.6806640625" y="555.0"/>
@@ -6047,7 +6029,6 @@
       </data>
     <data key="d4">https://en.wikipedia.org/wiki/Label</data></node>
     <node id="n340">
-      <data key="d4"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="62.69140625" x="-691.345703125" y="555.0"/>
