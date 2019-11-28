@@ -10,6 +10,8 @@ The concept map can have multiple purposes:
 
 In order to keep the concept map simple, the **Machine Learning Concept Map** depends on the [**Mathematics Concept Map**](https://github.com/tomzx/mathematics-concept-map).
 
+[![Concept map](map.svg)](map.svg)
+
 ## Contributing
 
 To view and explore this concept map, you will need a [GraphML](https://en.wikipedia.org/wiki/GraphML) compatible application. In order to edit this graph, I've personally been using [yEd](https://www.yworks.com/products/yed).
